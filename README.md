@@ -1,6 +1,6 @@
-# Blade&amp;Soul xml.dat
+# Blade &amp; Soul xml.dat
 
-Translated xml.dat Blade&amp;Soul chinese to english based on NA/EU
+Translated xml.dat Blade &amp; Soul chinese to english based on NA/EU
 
 {Work in progress and incomplete}
 
