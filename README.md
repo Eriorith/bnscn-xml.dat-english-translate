@@ -9,6 +9,3 @@ Thanks to:
 - ronny1982 [http://www.bladeandsouldojo.com/topic/71574-release-bnsdat-xmldat-de-compression-tool/]
 - Tetranoid [http://forum.mmosharks.ru/threads/Gajd-rusifikacii-lyubyh-lokalizacij-1692-1-1.html]
 
-Fiture:
-- UI translated to english
-- Translated all desc & skill name based on bnstree.com
