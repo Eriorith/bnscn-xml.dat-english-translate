@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <table release-module="LocalizationData" release-side="client" type="text" version="0.6">
-  <!--F:/BNS/Tencent/2.18.13.1350/Client/live/bin/temp/text\textdata.subtitle.x16-->
+  <!--F:/BNS/Tencent/2.19.13.1380/Client/live/bin/temp/text\textdata.subtitle.x16-->
   <record alias="Subtitle_Test">Subtitles</record>
   <record alias="E_SJ01_dochun_01">Isn't this... the Hongmoon Clan uniform?</record>
   <record alias="E_SJ01_jinyouung_01">Hey.</record>
@@ -11,7 +11,7 @@
   <record alias="E_SJ01_dochun_04">Hey, can... can you hear me? Hey. Hey!</record>
   <record alias="E_SJ01_mute_01">Heaven's Reach, 1 Day Ago</record>
   <record alias="E_SJ02_musung_01">The clouds are rolling in.</record>
-  <record alias="E_SJ02_jinyouung_01">Musung! Brother Musung!</record>
+  <record alias="E_SJ02_jinyouung_01">Lusung! Brother Lusung!</record>
   <record alias="E_SJ02_musung_02">Hm?</record>
   <record alias="E_SJ02_jinyouung_02">What are you doing here? Everyone's waiting.</record>
   <record alias="E_SJ02_musung_03">Yes, I was about to head down.</record>
@@ -35,7 +35,7 @@
   <record alias="E_SJ03_sabu_02">Jinsoyun? I saw you die!</record>
   <record alias="E_SJ03_ginseoyoun_02">And yet here I stand, old man.</record>
   <record alias="E_SJ03_ginseoyoun_02_01">Yura! Gubong!</record>
-  <record alias="E_SJ04_sabu_01_01">Musung... you betrayed us?</record>
+  <record alias="E_SJ04_sabu_01_01">Lusung... you betrayed us?</record>
   <record alias="E_SJ04_musung_01">You disappoint me, Master. Is this the true power of Hongmoon?</record>
   <record alias="E_SJ04_musung_02">Maybe the poison I put in your daily medicine wasn't even necessary.</record>
   <record alias="E_SJ04_sabu_02">Poison in my medicine? But why?</record>
@@ -895,7 +895,7 @@
   <record alias="I_0612_museong_01">Yes.</record>
   <record alias="I_0612_mahwang_02">Good. Here...here is the power you've always wanted!</record>
   <record alias="I_0612_chokma_01">Let's begin... our quest to destroy the world!</record>
-  <record alias="E_0615_yujeong_00">Yusung...</record>
+  <record alias="E_0615_yujeong_00">Musung...</record>
   <record alias="E_0615_museong_01">Sister...?!</record>
   <record alias="E_0615_yujeong_01">It's all over... It's all right...</record>
   <record alias="E_0703_jinseo_01">诶，放开！给我放开！</record>
